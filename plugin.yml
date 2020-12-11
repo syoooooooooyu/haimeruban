@@ -1,0 +1,8 @@
+name: haimerukill
+version: 1.0.0
+main: sqmeru\haimerukill\haimerukill
+api: [3.0.0 4.0.0]
+load: POSTWORLD
+author: sqmeru
+description: 自分(sqmeru)をBANする人道的にありえないPMMP用プラグイン
+website: https://github.com/Natu9/haimeruban
