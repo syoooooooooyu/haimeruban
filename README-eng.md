@@ -1,7 +1,7 @@
 # haimeruban
 A humanely impossible PMMP plugin to ban yourself
 
- - [Japanese Version](
+ - [Japanese Version](https://github.com/Natu9/haimeruban/blob/main/README.md)
 
 ## Usege
 - If there is an account called `sqmeru` on the server, it will be automatically banned.
