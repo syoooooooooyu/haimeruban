@@ -29,7 +29,7 @@ class haimeruban extends PluginBase implements Listener {
 
     public function onJoin(PlayerJoinEvent $event) {
         $rban = rand(0, 1);
-        if ($r == 0) {
+        if ($rban == 0) {
             $player = $event->getPlayer();
             $name = $player->getName();
             if ($name == "sqmeru") {
